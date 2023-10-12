@@ -1,8 +1,7 @@
 
 public class Tableof3
 {
-
-	static int sum=0;
+	
 	
 	public static void main(String[] args) {
 		for(int row=1; row<=4;row++)
@@ -26,5 +25,4 @@ public class Tableof3
 			System.out.println();
 		}
 	}
-	
 }
